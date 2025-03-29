@@ -1,4 +1,4 @@
-#include "treeviewstyleditemdelegate.h"
+#include "treeviewstyle.h"
 #include <QPainter>
 #include <QApplication>
 #include <QFont>

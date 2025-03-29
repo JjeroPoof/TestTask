@@ -1,7 +1,7 @@
 #include <QApplication>
 #include <qtreeview.h>
 #include "sqlitestorage.h"
-#include "treeviewstyleditemdelegate.h"
+#include "treeviewstyle.h"
 #include "treemodel.h"
 
 int main(int argc, char *argv[])
